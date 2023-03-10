@@ -3,4 +3,5 @@
 void main()
 {
     printf("hhe");
+    printf("hhe");
 }
